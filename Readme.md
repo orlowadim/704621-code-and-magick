@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Vadim Orlov](https://up.htmlacademy.ru/javascript/13/user/704621).
-* Наставник: `Неизвестно`.
+* Наставник: [Dmitry Shmakov](https://htmlacademy.ru/profile/id49911).
 
 ---
 
